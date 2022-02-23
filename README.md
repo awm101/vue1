@@ -1,6 +1,5 @@
 # vue1
 
-## PrimeVue Version
 ```
 For PrimeVue version, go to primevue Branch
 ```
